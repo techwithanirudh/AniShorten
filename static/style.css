@@ -1,0 +1,15 @@
+body{
+	text-align:center;
+}
+
+input[type=text]{
+	max-width:350px;
+}
+
+h4{
+	color: #3d3d3d;
+}
+
+a{
+	color: inherit;
+}
